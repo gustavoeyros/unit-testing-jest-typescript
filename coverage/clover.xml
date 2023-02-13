@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1676300945456" clover="3.2.0">
-  <project timestamp="1676300945456" name="All files">
-    <metrics statements="240" coveredstatements="149" conditionals="68" coveredconditionals="29" methods="61" coveredmethods="33" elements="369" coveredelements="211" complexity="0" loc="240" ncloc="240" packages="7" files="11" classes="11"/>
+<coverage generated="1676302490738" clover="3.2.0">
+  <project timestamp="1676302490738" name="All files">
+    <metrics statements="234" coveredstatements="149" conditionals="66" coveredconditionals="29" methods="60" coveredmethods="33" elements="360" coveredelements="211" complexity="0" loc="234" ncloc="234" packages="7" files="10" classes="10"/>
     <package name="app">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <file name="Launcher.ts" path="C:\github\unit-testing-jest-typescript\src\app\Launcher.ts">
@@ -199,7 +199,7 @@
       </file>
     </package>
     <package name="app.Models">
-      <metrics statements="28" coveredstatements="22" conditionals="10" coveredconditionals="8" methods="5" coveredmethods="4"/>
+      <metrics statements="22" coveredstatements="22" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
       <file name="ServerModels.ts" path="C:\github\unit-testing-jest-typescript\src\app\Models\ServerModels.ts">
         <metrics statements="22" coveredstatements="22" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
         <line num="21" count="5" type="cond" truecount="2" falsecount="0"/>
@@ -224,15 +224,6 @@
         <line num="63" count="5" type="stmt"/>
         <line num="64" count="5" type="stmt"/>
         <line num="65" count="5" type="stmt"/>
-      </file>
-      <file name="UserModels.ts" path="C:\github\unit-testing-jest-typescript\src\app\Models\UserModels.ts">
-        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="12" count="0" type="stmt"/>
-        <line num="13" count="0" type="stmt"/>
-        <line num="14" count="0" type="stmt"/>
       </file>
     </package>
     <package name="app.Server">
